@@ -54,11 +54,6 @@
       <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/pompe%20desactivee.PNG?raw=true" width="380"/><br/>
       <b>Pump NOT Activated</b><br/>AI predicted: no irrigation needed
     </td>
-    <td align="center">
-      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/pompe%20activee.PNG?raw=true" width="380"/><br/>
-      <b>Pump ACTIVATED</b><br/>AI predicted: irrigation required
-    </td>
-  </tr>
 </table>
 
 ---
@@ -68,14 +63,9 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/app%20activee.PNG?raw=true" width="250"/><br/>
+      <img src="[https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/app%20activee.PNG](https://raw.githubusercontent.com/wassimhamdi2/Iraggation-App/refs/heads/main/screenDemo/homeScreen.PNG)?raw=true" width="250"/><br/>
       <b>App — Pump Activated</b><br/>Temp: 32.80°C · Humidity: 36% · Soil: 652
     </td>
-    <td align="center">
-      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/app%20non%20activee.PNG?raw=true" width="250"/><br/>
-      <b>App — Pump Not Activated</b><br/>Temp: 32.80°C · Humidity: 37% · Soil: 314
-    </td>
-  </tr>
 </table>
 
 ---
