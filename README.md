@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/relais.PNG?raw=true" width="200"/><br/>
+      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/relais%203V.PNG?raw=true" width="200"/><br/>
       <b>Relay 5V</b><br/>Pump Switch
     </td>
     <td align="center">
@@ -70,22 +70,6 @@
 
 ---
 
-### 🤖 AI Model Training Results
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/matrice%20de%20confusion.PNG?raw=true" width="350"/><br/>
-      <b>Confusion Matrix</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/courbes%20entrainement.PNG?raw=true" width="350"/><br/>
-      <b>Training & Validation Curves</b>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📖 About the Project
 
