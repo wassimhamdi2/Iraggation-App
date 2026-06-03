@@ -94,7 +94,7 @@ The system monitors meteorological conditions (temperature, air humidity, soil h
 
 ```
 DHT11 ──────────────┐
-                    ├──► NodeMCU ESP8266 ──► ThingSpeak Cloud ──► Flutter App
+                    ├──► NodeMCU ESP8266 ──► socket io (wifi) ──► Flutter App
 Soil Moisture ──────┘         │                                    (Smart Irrigation UI)
                               │                                          │
                            Relay ──► Water Pump              MLP Model Decision
