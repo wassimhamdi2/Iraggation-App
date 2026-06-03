@@ -63,7 +63,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="[https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/app%20activee.PNG](https://raw.githubusercontent.com/wassimhamdi2/Iraggation-App/refs/heads/main/screenDemo/homeScreen.PNG)?raw=true" width="250"/><br/>
+      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/homeScreen.PNG?raw=true" width="250"/><br/>
       <b>App — Pump Activated</b><br/>Temp: 32.80°C · Humidity: 36% · Soil: 652
     </td>
 </table>
