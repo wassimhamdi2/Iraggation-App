@@ -12,11 +12,11 @@
       <b>Capteur DHT11</b><br/>Temperature & Humidity Sensor
     </td>
     <td align="center">
-      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/Capteur%20d'humidit%C3%A9%20du%20sol.PNG?raw=true" width="200"/><br/>
+      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/Capteur%20d%E2%80%99humidit%C3%A9%20capacitif%20v1.2.PNG?raw=true" width="200"/><br/>
       <b>Capacitive Soil Moisture Sensor</b><br/>Soil Humidity Sensor v1.2
     </td>
     <td align="center">
-      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/NodeMCU%20esp8266.PNG?raw=true" width="200"/><br/>
+      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/NodeMCU%20Esp8266.PNG?raw=true" width="200"/><br/>
       <b>NodeMCU ESP8266</b><br/>Wi-Fi Microcontroller
     </td>
   </tr>
@@ -26,7 +26,7 @@
       <b>Relay 5V</b><br/>Pump Switch
     </td>
     <td align="center">
-      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/pompe.PNG?raw=true" width="200"/><br/>
+      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/Mini%20pompe%20immergeable.PNG?raw=true" width="200"/><br/>
       <b>Mini Submersible Pump</b><br/>3–5V Water Pump
     </td>
     <td align="center">
