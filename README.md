@@ -160,7 +160,7 @@ Soil Moisture ──────┘         │                                 
 ### Mobile App
 
 ```bash
-git clone https://github.com/wassimhamdi2/Iraggation-App.git
+git clone https://github.com/wassimhamdi2/Iraggation-App/tree/main/tfm3.git
 cd Iraggation-App
 flutter pub get
 flutter run
@@ -181,22 +181,7 @@ NodeMCU ESP8266
 └── GND ──── Common Ground
 ```
 
----
 
-## 📂 Project Structure
-
-```
-Iraggation-App/
-├── screenDemo/               # All screenshots & prototype photos
-├── lib/
-│   ├── main.dart             # Flutter app entry point
-│   └── screens/              # UI screens
-├── arduino/
-│   └── smart_irrigation.ino  # ESP8266 firmware (C++)
-├── model/
-│   └── mlp_model.ipynb       # MLP training notebook (Google Colab)
-└── pubspec.yaml
-```
 
 ---
 
