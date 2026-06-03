@@ -46,13 +46,13 @@
 
 ---
 
-### 🌿 IoT Prototype — Pump States
+### 🌿 IoT Prototype — real life test 
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/pompe%20desactivee.PNG?raw=true" width="380"/><br/>
-      <b>Pump NOT Activated</b><br/>AI predicted: no irrigation needed
+      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/realTest.PNG?raw=true" width="500"/><br/>
+      <b>real life test</b>
     </td>
 </table>
 
