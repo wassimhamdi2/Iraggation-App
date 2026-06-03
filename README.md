@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/plaque%20d'essai.PNG?raw=true" width="200"/><br/>
+      <img src="https://github.com/wassimhamdi2/Iraggation-App/blob/main/screenDemo/plaque%20d%E2%80%99essai%20400points.PNG?raw=true" width="200"/><br/>
       <b>Breadboard 400pts</b><br/>Prototyping Board
     </td>
     <td></td>
